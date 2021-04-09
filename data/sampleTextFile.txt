@@ -1,0 +1,6 @@
+Hi there,
+This is a sample text file
+
+Enjoy
+Regards,
+Aman
